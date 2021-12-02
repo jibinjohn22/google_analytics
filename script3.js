@@ -16,7 +16,7 @@ function drawChart() {
   data.addRows([
     ['Mushrooms', 5],
     ['Onions', 1],
-    ['Olives', 1],
+    ['Olives', 5],
     ['Zucchini', 1],
     ['Pepperoni', 2]
   ]);
